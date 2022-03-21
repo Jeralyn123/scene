@@ -1,0 +1,12 @@
+setup.py
+/home/lzy/semantic/semantic segmentation/core/nn/csrc/vision.cpp
+/home/lzy/semantic/semantic segmentation/core/nn/csrc/cpu/ca_cpu.cpp
+/home/lzy/semantic/semantic segmentation/core/nn/csrc/cpu/psa_cpu.cpp
+/home/lzy/semantic/semantic segmentation/core/nn/csrc/cpu/syncbn_cpu.cpp
+/home/lzy/semantic/semantic segmentation/core/nn/csrc/cuda/ca_cuda.cu
+/home/lzy/semantic/semantic segmentation/core/nn/csrc/cuda/psa_cuda.cu
+/home/lzy/semantic/semantic segmentation/core/nn/csrc/cuda/syncbn_cuda.cu
+semantic_segmentation.egg-info/PKG-INFO
+semantic_segmentation.egg-info/SOURCES.txt
+semantic_segmentation.egg-info/dependency_links.txt
+semantic_segmentation.egg-info/top_level.txt
